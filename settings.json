@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gold.magmanode.com:33284",
+    "ip": "gold.magmanode.com",
     "port":33284,
-    "version": "1.21.1"
+    "version": "1.26.40"
   },
   "position": {
     "enabled": true,

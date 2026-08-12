@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HussanVerase.aternos.me",
-    "port": 12929,
+    "ip": "gold.magmanode.com:33284",
+    "port":33284,
     "version": "1.21.1"
   },
   "position": {
